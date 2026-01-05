@@ -1,4 +1,9 @@
 # Portable Camera
+
+## v 1.2.0
+- Fixed graphics
+
+
 ## v 1.1.0
 - Fixed console spam issue
 - Added ability to adjust camera movement/rotation speed (0.5–1000)
