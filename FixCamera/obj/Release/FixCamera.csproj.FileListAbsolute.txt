@@ -1,6 +1,0 @@
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Release\FixCamera.csproj.AssemblyReference.cache
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Release\FixCamera.csproj.CoreCompileInputs.cache
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\bin\Release\PortableCamera.dll
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Release\PortableCamera.dll
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Release\PortableCamera.Properties.Resources.resources
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Release\FixCamera.csproj.GenerateResource.cache

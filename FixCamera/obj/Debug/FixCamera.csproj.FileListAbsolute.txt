@@ -1,6 +1,0 @@
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\bin\Debug\FixCamera.dll
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\bin\Debug\FixCamera.pdb
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Debug\FixCamera.csproj.AssemblyReference.cache
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Debug\FixCamera.csproj.CoreCompileInputs.cache
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Debug\FixCamera.dll
-C:\Users\Zhopa\source\repos\FixCamera\FixCamera\obj\Debug\FixCamera.pdb
