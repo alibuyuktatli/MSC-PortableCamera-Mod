@@ -80,10 +80,10 @@ namespace PortableCamera
                 if (fsm.GetType().Name.Contains("PlayMaker"))
                     GameObject.Destroy(fsm);
 
-            // MSCLoader raycast
-            var ray = cameraitemCam.GetComponent("MSCLoader.UnifiedRaycast");
-            if (ray != null)
-                GameObject.Destroy(ray);
+            // MSCLoader raycast This code is commented because interferes with other mods compability
+            //var ray = cameraitemCam.GetComponent("MSCLoader.UnifiedRaycast");
+            //if (ray != null)
+            //    GameObject.Destroy(ray);
 
             GameObject.Destroy(cameraitemCam.GetComponent<AudioListener>());
 
